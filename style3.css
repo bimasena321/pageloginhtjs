@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: url(https://th.bing.com/th/id/R.c7f08c0e0bf0575ec610a654e493b382?rik=Nxkq1pKQcEXO9A&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fPigy6rf.jpg&ehk=%2blypHLEAOiPx%2fruimghlPjgDi1rpUnYuxLSz%2bKUNimk%3d&risl=&pid=ImgRaw&r=0);
+    background-size: cover;
+}
+
+.container {
+    margin-top: 10px;
+    margin-left: 30px;
+    position: relative;
+    top: 6rem;
+    left: 300px;
+    background-color: rgba(0, 0, 0, 0.705);
+    height: 21rem;
+    padding: 20px 0;
+    width: 39rem;
+    border-radius: 20px;
+    box-shadow: 19px 9px 10px;
+    color: rgba(76, 163, 245, 0.329);
+}
+
+input {
+    position: relative;
+    left: 187px;
+    top: 40px;
+    margin: 8px 20px;
+    height: 30px;
+    width: 220px;
+    border-radius: 18px;
+    color: rgb(0, 0, 0);
+    outline: none;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-transform: uppercase;
+    padding: 0;
+}
+
+.dd,
+input:hover {
+    background-color: aqua;
+}
+
+.dd {
+    background: none;
+}
